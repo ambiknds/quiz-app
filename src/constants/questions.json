@@ -1,0 +1,47 @@
+[
+  {
+    "question": "The malware that fetches the personal data such as bank details, credit/card details, password, etc. from remotely located computers is known as …",
+    "answerOptions": [
+      { "text": "Virus", "isCorrect": false },
+      { "text": "Worms", "isCorrect": false },
+      { "text": "Trojans", "isCorrect": true },
+      { "text": "Spyware", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which among the following controls all parts of the computer and known as the brain of computer?",
+    "answerOptions": [
+      { "text": "RAM", "isCorrect": false },
+      { "text": "ROM", "isCorrect": false },
+      { "text": "Processor", "isCorrect": false },
+      { "text": "CPU", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which among the following works faster?",
+    "answerOptions": [
+      { "text": "RAM", "isCorrect": false },
+      { "text": "Cache", "isCorrect": true },
+      { "text": "Register", "isCorrect": false },
+      { "text": "ROM", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which one of the following technologies is used to transmit voice, video, images data?",
+    "answerOptions": [
+      { "text": "ISDN", "isCorrect": true },
+      { "text": "DSL", "isCorrect": false },
+      { "text": "Leased Line", "isCorrect": false },
+      { "text": "Dial up lines", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "An IP address is a ……… Number.",
+    "answerOptions": [
+      { "text": "8-bit", "isCorrect": false },
+      { "text": "16-bit", "isCorrect": false },
+      { "text": "32-bit", "isCorrect": true },
+      { "text": "64-bit", "isCorrect": false }
+    ]
+  }
+]
